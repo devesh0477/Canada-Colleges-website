@@ -1,4 +1,3 @@
-![Screen Shot 2021-07-17 at 10 41 06 AM](https://user-images.githubusercontent.com/55842034/126040586-a4b50ab3-e3c7-4b97-925d-18560a2a38a8.png)
 # Canada Colleges (Educational Website)
 
 • Canada colleges is a mobile and web responsive website, which is build using complete frontend Stack. Specially designed for the ease of international students, who wants to come and study in Canada.
